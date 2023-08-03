@@ -27,15 +27,16 @@ const QuotesApp = () => {
         <button className="button" onClick={refreshPage}>
           Randomize
         </button>
+
       </div>
-      <h1>Quotes!!!</h1>
+      <h2>Quotes!!!</h2>
       <ul>
         {quotes.map((quote, index) => (
-          <li key={index}>{quote.quote}</li>
+          <li className='hiii' key={index}>{quote.quote}</li>
         ))}
       </ul>
     </div>
   );
 };
 
-export default QuotesApp;
+export default QuotesApp; 
