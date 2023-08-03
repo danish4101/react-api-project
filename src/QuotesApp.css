@@ -11,12 +11,12 @@
 
 body {
   background-image: url("/public/backg.jpg");
-  box-shadow: 0 4px 8px rgba(255, 234, 0, 0.846);
+  box-shadow: 0 4px 897px rgba(65, 59, 12, 0.846);
 }
 
 h2 {
   color: rgba(170, 190, 207, 0.88);
-  box-shadow: 0 4px 8px rgb(255, 255, 0);
+  box-shadow: 0 4px 897px rgb(255, 255, 0);
 }
 
 .hiii {
